@@ -1,0 +1,11 @@
+(i)	Is there any error when executing this program? If there is no error, write down the output of the program
+
+ANS:
+
+(ii)	Study line 6. The identifier a is used as the name of a function.  The same identifier a is also used as a local parameter variable. Explain why it is not a problem.
+
+ANS:
+
+(iii)	Study line 7. what is the purpose of putting global in front of the variable c? What will be the difference in situation of the variable c if the keyword global is not exist like the situation in line 16?
+
+ANS:

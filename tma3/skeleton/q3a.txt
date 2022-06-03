@@ -1,0 +1,4 @@
+Q3a
+
+(i)
+Describe the base case and general case that describes your recursive function

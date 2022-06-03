@@ -1,0 +1,31 @@
+(i)	List the nodes visited in in-order traversal
+Ans:
+2, 1, 3, 4, 5, 6, 8, 9
+
+
+(ii)	List the nodes visited in pre-order traversal
+Ans:
+4, 3, 1, 2, 6, 5, 8, 9
+
+
+(iii)	List the nodes visited in post-order traversal
+Ans:
+2, 1, 3, 5, 8, 8, 6, 4
+
+
+(iv)	Give the height of the tree
+Ans:
+3
+
+
+(v)	Explain how the node should be replaced if the node 1 is deleted
+Ans:
+replace content of node 1 with content of node 2, then delete node 2
+
+
+(vi)	Explain how the node should be replaced if the node 4 is deleted
+method 1: replace the content of node 4 with content of node 5, then delete node 5
+method 2: replace the content of node 4 with content of node 3, then replace content of node 3 with content of node 2, delete node 2.
+obviously, method1 is more efficient than method2, hence mothod 1 is preferred. 
+
+

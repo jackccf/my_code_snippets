@@ -1,0 +1,51 @@
+(i)
+a - 4 * b
+and assumption is a = 2 and b = 3
+
+Order of execution is:
+1. 4 * b
+2. a - 4 * b
+
+Final value is -10
+
+
+
+(ii)
+a + b / 2 == b + 4
+and assumption is a = 2 and b = 3
+
+Order of execution is:
+1. b / 2
+2. a + b / 2
+3. b + 4
+4. a + b / 2 == b + 4
+
+Final value is False
+ 
+
+
+(iii)
+a ** 2 > b and 3 < 4
+and assumption is a = 2 and b = 3
+
+Order of execution is:
+1. a ** 2
+2. a ** 2 > b
+3. 3 < 4
+4. a ** 2 > b and 3 < 4
+
+Final value is False
+
+
+
+(iv)
+a = b = not(a > 3)
+and assumption is a = 2 and b = 3
+
+Order of execution is:
+1. a > 3
+2. not(a > 3)
+3. b = not(a > 3)
+4. a = b = not(a > 3)
+
+Final value is SyntaxError: can't assign to literal

@@ -1,0 +1,15 @@
+# assignment q1h
+# purpose: answer questions
+# answered by Cheung Chun Fai (s1285547)
+# On 3/29/2021
+# For Assignment_02 q1h (comp-s258, 2021Autumn)
+
+
+
+(i)	The variable c at line 7 has scope from line 8 to line 11 and it is a global variable.
+
+(ii) The function a() at line 6 has scope from line 7 to line 21  and it is a global identifier.
+
+(iii) The variable a at line 6 has scope from line 7 to line 11  and it is a local variable.
+
+(iv) The variable a at line 8 has scope from line 7 to line 11  and it is a local variable.

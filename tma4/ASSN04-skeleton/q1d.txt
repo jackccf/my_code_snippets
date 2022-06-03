@@ -1,0 +1,14 @@
+(i)	Explain the purpose of the function insertMystery, in particular the parameter after.
+
+
+
+(ii)	Explain the stopping condition of the loop in the insertMystery function.
+
+
+
+(iii)	Compare the coding of the function append and the function insertMystery. Highlight the major difference and explain the code.
+
+
+
+(iv)	Write down the time complexity of the function insertMystery. Explain your answer.
+

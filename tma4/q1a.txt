@@ -1,0 +1,31 @@
+Part 1. The time measurements should be in seconds 
+down to 4 decimal places. Fill 
+
+List Size   500         1000        2000        4000
+FuncA       2.7376      10.7720     44.4419     194.6052
+FuncB       0.0595      0.0694      0.0614      0.059
+FuncC       0.0533      0.1299      0.3533      1.3175
+
+Part 2. Write down the performance of funcA and funcB in Big-O notation
+Ans:
+funcA: O(n^2) quadratic
+funcB: O(1) constant
+
+
+
+Part 3. From the time measurements of funcC, compare the performance of funcC (better or worse) to Linear time and Quadratic time? 
+Suggest the performance of funcC in Big-O notation.
+Ans:
+performance of funcC is worse than linear time, but better than quadratic time.
+funcC pretty likely has O(nlogn) time, i.e., n log n.
+
+
+
+Part 4. Rank the three functions from best scalability to worst scalability. 
+Explain your answer. 
+Ans:
+from best to worst:
+funcB > funcC > funcB
+
+
+

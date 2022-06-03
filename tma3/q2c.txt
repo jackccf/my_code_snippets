@@ -1,0 +1,19 @@
+Q2c
+
+(iii)
+Time in seconds
+Randomly ordered	    | 100           | 200           | 400           | 800 
+quickSort	            | 0.0001989     | 0.0004266     | 0.0013862     | 0.002834
+Randomized quickSort    | 0.0004094     | 0.0012268     | 0.0093741     | 0.0510391
+
+Time in seconds
+Reversed ordered	    | 100             | 200             | 400           | 800 
+quickSort	            | 0.0010911       | 0.0041146       | 0.0170713     | 0.0659597
+Randomized quickSort    | 0.0011593       | 0.0027543       | 0.0089732     | 0.0231303
+
+(iv)
+for randomly ordered input, quickSort perform better
+for reverse sorted input, randomized quickSort performs better
+
+
+

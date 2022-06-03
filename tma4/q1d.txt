@@ -1,0 +1,27 @@
+(i)	Explain the purpose of the function insertMystery, in particular the parameter after.
+Ans:
+purpose: insert a new node right after the first node that has same value of "after" argument;
+
+
+
+(ii)	Explain the stopping condition of the loop in the insertMystery function.
+Ans:
+the while loop iterate through the stack, from the starting node, one by one to the next node, once the data is found matched to
+after argument, loop stops.
+
+
+
+(iii)	Compare the coding of the function append and the function insertMystery. Highlight the major difference and explain the code.
+Ans:
+insertMystery is to insert a node after the first encounter node that has same data value with "after" argument;
+apend is to add a node after the last node.
+
+
+
+(iv)	Write down the time complexity of the function insertMystery. Explain your answer.
+Ans:
+it's linear time.
+for n input, the worst case happens at target = n, i.e., program has to iterate thourgh the whole stack of n to get the work done;
+for 2n input, the worst case happen at target = 2n, i.e., program has to iterate thourgh the whole stack of 2n to get the work done;
+essentially, it's a linear relation.
+

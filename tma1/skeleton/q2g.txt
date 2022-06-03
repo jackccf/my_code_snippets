@@ -1,0 +1,44 @@
+This is just the example
+
+x + y + x * 2
+Order of execution is:
+1.	x * 2
+2.	x + y
+3.	x + y + x * 2
+
+Final value is: 15
+-------------------------------
+
+(i)
+Assume a = 2 and b = 3
+a - 4 * b
+Order of execution is:
+1. 
+2. 
+
+Final value is: 
+
+(ii)	
+Assume a = 2 and b = 3
+a + b / 2 == b + 4
+Order of execution is:
+
+
+Final value is: 
+
+(iii)	
+Assume a = 2 and b = 3
+a**2 > b and 3 < 4
+Order of execution is:
+
+
+Final value is: 
+
+(iv)	
+Assume a = 2 and b = 3
+a = b = not(a > 3) 
+Order of execution is:
+
+
+Final value is: 
+

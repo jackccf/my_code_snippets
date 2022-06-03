@@ -1,0 +1,12 @@
+Q1e
+
+(i)
+Big-O of Procedure	| Time Taken (s)
+O(N)	            |
+O(lg N)	            |
+O(N lg N)	        |
+O(N2)	            |
+O(N3)	            |
+
+(ii)
+

@@ -1,0 +1,19 @@
+(i)	List the nodes visited in in-order traversal
+
+
+(ii)	List the nodes visited in pre-order traversal
+
+
+(iii)	List the nodes visited in post-order traversal
+
+
+(iv)	Give the height of the tree
+
+
+(v)	Explain how the node should be replaced if the node 1 is deleted
+
+
+(vi)	Explain how the node should be replaced if the node 4 is deleted
+
+
+

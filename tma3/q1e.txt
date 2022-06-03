@@ -1,0 +1,14 @@
+Q1e
+
+(i)
+Big-O of Procedure	| Time Taken (s)
+O(N)	            | 1.000
+O(lg N)	            | 0.010
+O(N lg N)	        | 9.966
+O(N2)	            | 1000
+O(N3)	            | 1000000
+
+(ii)
+O(1) means algorithm performs the same number of steps no matter how many data elements there are, it runs in constant time.
+obviously, Algorithm A is much more likely to have performance of O(1) here.
+ 

@@ -1,0 +1,8 @@
+Q1f
+
+Parrot Sparrow Duck Pigeon Owl Gull Eagle Peacock  
+...
+
+
+
+Total number of comparisons required = 

@@ -1,0 +1,28 @@
+# assignment q1g
+# purpose: answer questions
+# answered by Cheung Chun Fai (s1285547)
+# On 3/29/2021
+# For Assignment_02 q1g (comp-s258, 2021Autumn)
+
+
+
+(i)	Is there any error when executing this program? If there is no error, write down the output of the program
+
+ANS:
+no errors when executing.
+
+the output is:
+10
+16
+5
+
+(ii)	Study line 6. The identifier a is used as the name of a function.  The same identifier a is also used as a local parameter variable. Explain why it is not a problem.
+
+ANS:
+Python interpreter is able to distinguish between function name and parameter name
+
+(iii)	Study line 7. what is the purpose of putting global in front of the variable c? What will be the difference in situation of the variable c if the keyword global is not exist like the situation in line 16?
+
+ANS:
+global keyword inside a function is to signify the value of a global variable will be altered inside a function.
+when global keyword not exist, the c inside the function will be just a local variable, whatever changes to c inside the function will have no impact on the global c.

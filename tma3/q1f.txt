@@ -1,0 +1,20 @@
+Q1f
+
+Parrot Sparrow Duck Pigeon Owl Gull Eagle Peacock  ( 7 comparisons ) 
+
+Owl Sparrow Duck Pigeon Parrot Gull Eagle Peacock  ( 7 comparisons )
+
+Owl Duck Sparrow Pigeon Parrot Gull Eagle Peacock  ( 7 comparisons )
+
+Owl Duck Gull Pigeon Parrot Sparrow Eagle Peacock  ( 6 comparisons )
+
+Owl Duck Gull Eagle Parrot Sparrow Pigeon Peacock  ( 5 comparisons )
+
+Owl Duck Gull Eagle Parrot Sparrow Pigeon Peacock  ( 2 comparisons )
+
+Owl Duck Gull Eagle Parrot Pigeon Sparrow Peacock  ( 2 comparisons )
+
+Owl Duck Gull Eagle Parrot Pigeon Peacock Sparrow
+
+
+Total number of comparisons required = 36

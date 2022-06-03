@@ -1,0 +1,214 @@
+,Case no.,Report date,Date of onset,Gender,Age,Name of hospital admitted,Hospitalised/Discharged/Deceased,HK/Non-HK resident,Classification*,Case status*,Asymptomatic,Monthly,Lapse Days
+12,13,2020-01-31,2020-01-29,M,39.0,,Deceased,HK resident,Imported case,Confirmed,No,2020-01,2.0
+54,55,2020-02-14,2020-02-02,M,70.0,,Deceased,HK resident,Possibly local case,Confirmed,No,2020-02,12.0
+88,89,2020-02-26,2020-02-25,M,80.0,,Deceased,HK resident,Epidemiologically linked with possibly local case,Confirmed,No,2020-02,1.0
+98,99,2020-03-01,2020-02-28,F,76.0,,Deceased,HK resident,Local case,Confirmed,No,2020-03,2.0
+594,595,2020-03-29,2020-03-24,F,75.0,,Deceased,HK resident,Imported case,Confirmed,No,2020-03,5.0
+1091,1092,2020-06-02,2020-06-01,F,78.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-06,1.0
+1099,1100,2020-06-04,2020-06-03,M,72.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-06,1.0
+1179,1180,2020-06-24,2020-06-13,M,55.0,,Deceased,HK resident,Imported case,Confirmed,No,2020-06,11.0
+1305,1306,2020-07-08,2020-07-06,M,92.0,,Deceased,HK resident,Local case,Confirmed,No,2020-07,2.0
+1337,1338,2020-07-09,,M,74.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-07,
+1338,1339,2020-07-09,,M,91.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-07,
+1340,1341,2020-07-09,,F,95.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-07,
+1345,1346,2020-07-09,,M,83.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-07,
+1347,1348,2020-07-09,,M,87.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-07,
+1349,1350,2020-07-09,,F,90.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-07,
+1364,1365,2020-07-09,2020-07-08,M,94.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-07,1.0
+1423,1424,2020-07-11,2020-07-07,F,82.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-07,4.0
+1449,1450,2020-07-12,2020-07-10,M,89.0,,Deceased,HK resident,Local case,Confirmed,No,2020-07,2.0
+1472,1473,2020-07-13,2020-07-11,M,86.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-07,2.0
+1484,1485,2020-07-13,2020-07-11,M,85.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-07,2.0
+1486,1487,2020-07-13,2020-07-11,M,88.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-07,2.0
+1561,1562,2020-07-14,2020-07-10,M,77.0,,Deceased,HK resident,Local case,Confirmed,No,2020-07,4.0
+1567,1568,2020-07-14,2020-07-13,F,72.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-07,1.0
+1601,1602,2020-07-16,2020-07-13,F,64.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-07,3.0
+1611,1612,2020-07-16,2020-07-10,M,94.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-07,6.0
+1639,1640,2020-07-16,,M,63.0,,Deceased,HK resident,Local case,Confirmed,No,2020-07,
+1706,1707,2020-07-17,2020-07-10,F,71.0,,Deceased,HK resident,Local case,Confirmed,No,2020-07,7.0
+1709,1710,2020-07-17,2020-07-11,M,84.0,,Deceased,HK resident,Local case,Confirmed,No,2020-07,6.0
+1717,1718,2020-07-18,2020-07-16,M,71.0,,Deceased,HK resident,Local case,Confirmed,No,2020-07,2.0
+1766,1767,2020-07-18,2020-07-14,M,86.0,,Deceased,HK resident,Local case,Confirmed,No,2020-07,4.0
+1775,1776,2020-07-18,,F,76.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-07,
+1900,1901,2020-07-20,2020-07-18,F,95.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-07,2.0
+1935,1936,2020-07-20,2020-07-18,M,80.0,,Deceased,HK resident,Local case,Confirmed,No,2020-07,2.0
+1939,1940,2020-07-20,2020-07-13,F,74.0,,Deceased,HK resident,Local case,Confirmed,No,2020-07,7.0
+1988,1989,2020-07-21,2020-07-17,M,76.0,,Deceased,HK resident,Local case,Confirmed,No,2020-07,4.0
+2006,2007,2020-07-21,2020-07-19,M,84.0,,Deceased,HK resident,Local case,Confirmed,No,2020-07,2.0
+2085,2086,2020-07-22,2020-07-17,M,70.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-07,5.0
+2093,2094,2020-07-22,2020-07-19,F,82.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-07,3.0
+2106,2107,2020-07-22,2020-07-15,F,76.0,,Deceased,HK resident,Local case,Confirmed,No,2020-07,7.0
+2114,2115,2020-07-22,2020-07-13,F,84.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-07,9.0
+2130,2131,2020-07-22,,M,86.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-07,
+2245,2246,2020-07-23,2020-07-12,F,92.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-07,11.0
+2268,2269,2020-07-24,2020-07-19,F,90.0,,Deceased,HK resident,Local case,Confirmed,No,2020-07,5.0
+2403,2404,2020-07-25,,M,90.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-07,
+2404,2405,2020-07-25,,F,91.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-07,
+2428,2429,2020-07-25,2020-07-18,F,88.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-07,7.0
+2479,2480,2020-07-25,2020-07-21,M,60.0,,Deceased,HK resident,Local case,Confirmed,No,2020-07,4.0
+2480,2481,2020-07-25,2020-07-23,F,83.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-07,2.0
+2700,2701,2020-07-27,2020-07-25,F,88.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-07,2.0
+2702,2703,2020-07-27,2020-07-24,F,90.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-07,3.0
+2704,2705,2020-07-27,2020-07-25,F,89.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-07,2.0
+2715,2716,2020-07-27,2020-07-20,M,63.0,,Deceased,HK resident,Local case,Confirmed,No,2020-07,7.0
+2744,2745,2020-07-27,2020-07-25,M,82.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-07,2.0
+2746,2747,2020-07-27,2020-07-25,F,82.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-07,2.0
+2788,2789,2020-07-28,2020-07-18,F,86.0,,Deceased,HK resident,Local case,Confirmed,No,2020-07,10.0
+2791,2792,2020-07-28,2020-07-21,F,69.0,,Deceased,HK resident,Local case,Confirmed,No,2020-07,7.0
+2792,2793,2020-07-28,,M,86.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-07,
+2793,2794,2020-07-28,,M,78.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-07,
+2803,2804,2020-07-28,,M,90.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-07,
+2841,2842,2020-07-28,2020-07-26,M,85.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-07,2.0
+2889,2890,2020-07-29,,M,71.0,,Deceased,HK resident,Local case,Confirmed,No,2020-07,
+2895,2896,2020-07-29,2020-07-20,M,79.0,,Deceased,HK resident,Local case,Confirmed,No,2020-07,9.0
+2913,2914,2020-07-29,2020-07-23,M,79.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-07,6.0
+2941,2942,2020-07-29,2020-07-27,M,82.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-07,2.0
+2950,2951,2020-07-29,2020-07-25,F,87.0,,Deceased,HK resident,Local case,Confirmed,No,2020-07,4.0
+2954,2955,2020-07-29,2020-07-27,F,79.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-07,2.0
+2961,2962,2020-07-29,2020-07-25,M,76.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-07,4.0
+2967,2968,2020-07-29,2020-07-23,M,69.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-07,6.0
+2987,2988,2020-07-29,2020-07-25,M,81.0,,Deceased,HK resident,Local case,Confirmed,No,2020-07,4.0
+2988,2989,2020-07-29,2020-07-24,F,66.0,,Deceased,HK resident,Local case,Confirmed,No,2020-07,5.0
+3121,3122,2020-07-30,2020-07-30,M,94.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-07,0.0
+3152,3153,2020-07-31,2020-07-29,M,86.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-07,2.0
+3195,3196,2020-07-31,2020-07-25,F,93.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-07,6.0
+3200,3201,2020-07-31,2020-07-28,F,79.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-07,3.0
+3307,3308,2020-08-01,2020-07-27,M,82.0,,Deceased,HK resident,Local case,Confirmed,No,2020-08,5.0
+3366,3367,2020-08-01,2020-07-24,M,80.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-08,8.0
+3371,3372,2020-08-01,2020-07-24,M,85.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-08,8.0
+3422,3423,2020-08-02,2020-07-25,M,88.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-08,8.0
+3552,3553,2020-08-03,2020-07-27,M,87.0,,Deceased,HK resident,Local case,Confirmed,No,2020-08,7.0
+3584,3585,2020-08-03,2020-08-01,M,78.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-08,2.0
+3625,3626,2020-08-04,2020-07-29,F,83.0,,Deceased,HK resident,Local case,Confirmed,No,2020-08,6.0
+3634,3635,2020-08-04,2020-07-29,M,66.0,,Deceased,HK resident,Local case,Confirmed,No,2020-08,6.0
+3638,3639,2020-08-04,2020-08-02,M,85.0,,Deceased,HK resident,Local case,Confirmed,No,2020-08,2.0
+3713,3714,2020-08-05,2020-07-21,M,81.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-08,15.0
+3732,3733,2020-08-05,2020-08-03,M,79.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-08,2.0
+3733,3734,2020-08-05,2020-08-03,M,95.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-08,2.0
+3770,3771,2020-08-06,2020-08-04,M,86.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-08,2.0
+3781,3782,2020-08-06,2020-07-28,M,69.0,,Deceased,HK resident,Local case,Confirmed,No,2020-08,9.0
+3959,3960,2020-08-08,2020-08-06,F,81.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-08,2.0
+4071,4072,2020-08-09,,M,91.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-08,
+4087,4088,2020-08-10,,M,78.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-08,
+4095,4096,2020-08-10,2020-08-08,M,70.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-08,2.0
+4145,4146,2020-08-10,2020-08-08,M,75.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-08,2.0
+4147,4148,2020-08-10,2020-08-04,M,79.0,,Deceased,HK resident,Local case,Confirmed,No,2020-08,6.0
+4234,4235,2020-08-12,2020-08-05,F,65.0,,Deceased,HK resident,Local case,Confirmed,No,2020-08,7.0
+4280,4281,2020-08-13,,F,92.0,,Deceased,HK resident,Local case,Confirmed,No,2020-08,
+4299,4300,2020-08-13,,M,67.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-08,
+4366,4367,2020-08-15,2020-08-11,F,82.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-08,4.0
+4432,4433,2020-08-16,2020-08-13,M,70.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-08,3.0
+4551,4552,2020-08-18,,F,83.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-08,
+4564,4565,2020-08-19,2020-08-17,F,98.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-08,2.0
+4629,4630,2020-08-21,2020-08-19,M,81.0,,Deceased,HK resident,Local case,Confirmed,No,2020-08,2.0
+4725,4726,2020-08-26,2020-08-22,F,96.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-08,4.0
+4728,4729,2020-08-26,2020-08-14,M,69.0,,Deceased,HK resident,Local case,Confirmed,No,2020-08,12.0
+4762,4763,2020-08-28,2020-08-16,M,59.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-08,12.0
+4773,4774,2020-08-29,2020-08-25,M,77.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-08,4.0
+4828,4829,2020-09-02,2020-08-27,M,87.0,,Deceased,HK resident,Local case,Confirmed,No,2020-09,6.0
+4832,4833,2020-09-03,2020-08-20,M,66.0,,Deceased,HK resident,Local case,Confirmed,No,2020-09,14.0
+4837,4838,2020-09-03,2020-08-26,F,63.0,,Deceased,HK resident,Local case,Confirmed,No,2020-09,8.0
+4936,4937,2020-09-12,2020-09-01,M,88.0,,Deceased,HK resident,Local case,Confirmed,No,2020-09,11.0
+5109,5110,2020-10-04,2020-09-25,F,73.0,,Deceased,HK resident,Imported case,Confirmed,No,2020-10,9.0
+5408,5409,2020-11-12,2020-11-08,M,77.0,,Deceased,HK resident,Local case,Confirmed,No,2020-11,4.0
+5542,5543,2020-11-21,2020-11-19,F,77.0,,Deceased,HK resident,Local case,Confirmed,No,2020-11,2.0
+5724,5725,2020-11-24,,M,80.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-11,
+5734,5735,2020-11-24,2020-11-21,M,67.0,,Deceased,HK resident,Local case,Confirmed,No,2020-11,3.0
+5753,5754,2020-11-24,,M,73.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-11,
+5839,5840,2020-11-25,2020-11-24,M,73.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-11,1.0
+5987,5988,2020-11-27,2020-11-24,M,70.0,,Deceased,HK resident,Local case,Confirmed,No,2020-11,3.0
+6078,6079,2020-11-28,2020-11-25,F,77.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-11,3.0
+6152,6153,2020-11-29,2020-11-27,M,63.0,,Deceased,HK resident,Local case,Confirmed,No,2020-11,2.0
+6153,6154,2020-11-29,2020-11-27,M,86.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-11,2.0
+6254,6255,2020-11-30,2020-11-28,F,79.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-11,2.0
+6271,6272,2020-11-30,2020-11-27,M,38.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-11,3.0
+6298,6299,2020-11-30,,M,85.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-11,
+6341,6342,2020-12-01,2020-11-13,F,75.0,,Deceased,HK resident,Local case,Confirmed,No,2020-12,18.0
+6346,6347,2020-12-01,2020-11-30,F,64.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-12,1.0
+6446,6447,2020-12-02,2020-12-01,F,82.0,,Deceased,HK resident,Local case,Confirmed,No,2020-12,1.0
+6532,6533,2020-12-03,2020-12-01,F,86.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-12,2.0
+6605,6606,2020-12-04,2020-11-14,F,82.0,,Deceased,HK resident,Local case,Confirmed,No,2020-12,20.0
+6690,6691,2020-12-04,2020-12-01,M,77.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-12,3.0
+6744,6745,2020-12-05,2020-12-02,F,84.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-12,3.0
+6793,6794,2020-12-05,2020-11-30,M,77.0,,Deceased,HK resident,Local case,Confirmed,No,2020-12,5.0
+6816,6817,2020-12-06,2020-12-03,M,81.0,,Deceased,HK resident,Local case,Confirmed,No,2020-12,3.0
+6838,6839,2020-12-06,2020-12-04,M,69.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-12,2.0
+6842,6843,2020-12-06,2020-11-29,M,79.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-12,7.0
+6848,6849,2020-12-06,2020-12-04,M,92.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-12,2.0
+6849,6850,2020-12-06,2020-12-04,F,85.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-12,2.0
+6876,6877,2020-12-06,2020-11-27,F,60.0,,Deceased,HK resident,Local case,Confirmed,No,2020-12,9.0
+6886,6887,2020-12-06,,F,81.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-12,
+6893,6894,2020-12-06,2020-11-30,M,59.0,,Deceased,HK resident,Local case,Confirmed,No,2020-12,6.0
+6912,6913,2020-12-07,2020-12-03,M,82.0,,Deceased,HK resident,Local case,Confirmed,No,2020-12,4.0
+6917,6918,2020-12-07,2020-12-03,M,87.0,,Deceased,HK resident,Local case,Confirmed,No,2020-12,4.0
+6919,6920,2020-12-07,2020-11-30,M,73.0,,Deceased,HK resident,Local case,Confirmed,No,2020-12,7.0
+6920,6921,2020-12-07,2020-11-30,M,81.0,,Deceased,HK resident,Local case,Confirmed,No,2020-12,7.0
+6970,6971,2020-12-07,2020-12-03,F,42.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-12,4.0
+7020,7021,2020-12-08,2020-12-07,M,57.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-12,1.0
+7052,7053,2020-12-08,2020-12-06,F,95.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-12,2.0
+7122,7123,2020-12-09,2020-12-03,M,66.0,,Deceased,HK resident,Local case,Confirmed,No,2020-12,6.0
+7131,7132,2020-12-09,,F,85.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-12,
+7133,7134,2020-12-09,,M,49.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-12,
+7258,7259,2020-12-10,,M,66.0,,Deceased,HK resident,Imported case,Confirmed,No,2020-12,
+7344,7345,2020-12-11,2020-12-06,F,89.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-12,5.0
+7383,7384,2020-12-12,,M,87.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-12,
+7423,7424,2020-12-12,2020-12-10,M,67.0,,Deceased,HK resident,Local case,Confirmed,No,2020-12,2.0
+7461,7462,2020-12-13,2020-12-02,F,97.0,,Deceased,HK resident,Local case,Confirmed,No,2020-12,11.0
+7559,7560,2020-12-14,,M,73.0,,Deceased,HK resident,Local case,Confirmed,No,2020-12,
+7610,7611,2020-12-14,2020-12-05,M,79.0,,Deceased,HK resident,Local case,Confirmed,No,2020-12,9.0
+7724,7725,2020-12-16,2020-12-13,M,88.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-12,3.0
+7752,7753,2020-12-16,2020-12-14,F,92.0,,Deceased,HK resident,Local case,Confirmed,No,2020-12,2.0
+7815,7816,2020-12-17,2020-12-13,M,84.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-12,4.0
+7899,7900,2020-12-17,2020-12-10,F,62.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-12,7.0
+7915,7916,2020-12-18,2020-12-06,F,56.0,,Deceased,HK resident,Local case,Confirmed,No,2020-12,12.0
+7979,7980,2020-12-19,2020-12-08,M,65.0,,Deceased,HK resident,Local case,Confirmed,No,2020-12,11.0
+8068,8069,2020-12-19,2020-12-17,M,71.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-12,2.0
+8069,8070,2020-12-19,2020-12-17,F,79.0,,Deceased,HK resident,Local case,Confirmed,No,2020-12,2.0
+8090,8091,2020-12-20,2020-12-17,F,85.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-12,3.0
+8220,8221,2020-12-21,,M,77.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-12,
+8335,8336,2020-12-23,2020-12-18,M,59.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-12,5.0
+8376,8377,2020-12-24,2020-12-23,F,71.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-12,1.0
+8442,8443,2020-12-25,2020-12-22,M,77.0,,Deceased,HK resident,Local case,Confirmed,No,2020-12,3.0
+8443,8444,2020-12-25,2020-12-19,M,95.0,,Deceased,HK resident,Local case,Confirmed,No,2020-12,6.0
+8448,8449,2020-12-25,2020-12-21,M,72.0,,Deceased,HK resident,Local case,Confirmed,No,2020-12,4.0
+8451,8452,2020-12-25,2020-12-23,M,47.0,,Deceased,HK resident,Local case,Confirmed,No,2020-12,2.0
+8463,8464,2020-12-25,2020-12-20,F,75.0,,Deceased,HK resident,Local case,Confirmed,No,2020-12,5.0
+8539,8540,2020-12-26,2020-12-16,F,74.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-12,10.0
+8544,8545,2020-12-27,2020-12-24,F,89.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-12,3.0
+8546,8547,2020-12-27,2020-12-26,F,84.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-12,1.0
+8560,8561,2020-12-27,2020-12-22,M,77.0,,Deceased,HK resident,Local case,Confirmed,No,2020-12,5.0
+8635,8636,2020-12-28,2020-12-26,M,81.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-12,2.0
+8724,8725,2020-12-29,2020-12-20,F,86.0,,Deceased,HK resident,Local case,Confirmed,No,2020-12,9.0
+8740,8741,2020-12-30,2020-12-29,F,87.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2020-12,1.0
+8865,8866,2021-01-01,2020-12-20,M,86.0,,Deceased,HK resident,Local case,Confirmed,No,2021-01,12.0
+8899,8900,2021-01-02,2020-12-01,M,60.0,,Deceased,HK resident,Local case,Confirmed,No,2021-01,32.0
+8936,8937,2021-01-03,2020-12-15,F,66.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2021-01,19.0
+9030,9031,2021-01-05,2021-01-03,F,86.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2021-01,2.0
+9044,9045,2021-01-05,2021-01-02,F,77.0,,Deceased,HK resident,Local case,Confirmed,No,2021-01,3.0
+9061,9062,2021-01-06,2021-01-04,M,95.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2021-01,2.0
+9065,9066,2021-01-06,,M,89.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2021-01,
+9310,9311,2021-01-12,2021-01-03,F,74.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2021-01,9.0
+9437,9438,2021-01-15,2021-01-11,M,68.0,,Deceased,HK resident,Local case,Confirmed,No,2021-01,4.0
+9541,9542,2021-01-17,2021-01-12,F,90.0,,Deceased,HK resident,Local case,Confirmed,No,2021-01,5.0
+9611,9612,2021-01-18,2021-01-16,M,69.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2021-01,2.0
+9642,9643,2021-01-18,,F,46.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2021-01,
+9662,9663,2021-01-18,2021-01-17,M,78.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2021-01,1.0
+9729,9730,2021-01-20,2021-01-17,F,94.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2021-01,3.0
+9857,9858,2021-01-21,2021-01-19,F,82.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2021-01,2.0
+9952,9953,2021-01-23,2021-01-19,F,83.0,,Deceased,HK resident,Local case,Confirmed,No,2021-01,4.0
+9958,9959,2021-01-23,2021-01-19,F,75.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2021-01,4.0
+10022,10023,2021-01-24,2021-01-22,M,79.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2021-01,2.0
+10117,10118,2021-01-25,,F,58.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2021-01,
+10237,10238,2021-01-27,2021-01-25,F,88.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2021-01,2.0
+10290,10291,2021-01-28,,F,56.0,,Deceased,HK resident,Local case,Confirmed,No,2021-01,
+10323,10324,2021-01-29,2021-01-10,M,87.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2021-01,19.0
+10355,10356,2021-01-29,2021-01-24,M,85.0,,Deceased,HK resident,Local case,Confirmed,No,2021-01,5.0
+10378,10379,2021-01-30,,F,81.0,,Deceased,HK resident,Local case,Confirmed,No,2021-01,
+10502,10503,2021-02-02,2021-01-31,F,81.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2021-02,2.0
+10530,10531,2021-02-03,2021-01-19,M,66.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2021-02,15.0
+10577,10578,2021-02-05,2021-02-02,M,87.0,,Deceased,HK resident,Local case,Confirmed,No,2021-02,3.0
+10721,10722,2021-02-11,2021-01-25,M,84.0,,Deceased,HK resident,Local case,Confirmed,No,2021-02,17.0
+10952,10953,2021-02-27,2021-02-01,F,86.0,,Deceased,HK resident,Local case,Confirmed,No,2021-02,26.0
+11546,11547,2021-04-08,,F,70.0,,Deceased,HK resident,Epidemiologically linked with local case,Confirmed,No,2021-04,
+11610,11611,2021-04-14,2021-03-31,M,70.0,,Deceased,HK resident,Local case,Confirmed,No,2021-04,14.0
+11909,11910,2021-06-25,,M,56.0,,Deceased,Non-HK resident,Imported case,Confirmed,No,2021-06,

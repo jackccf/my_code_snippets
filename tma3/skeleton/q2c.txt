@@ -1,0 +1,17 @@
+Q2c
+
+(iii)
+Time in seconds
+Randomly ordered	    | 100    | 200     | 400     | 800 
+quickSort	            |        |         |         |
+Randomized quickSort    |        |         |         |
+
+Time in seconds
+Reversed ordered	    | 100    | 200     | 400     | 800 
+quickSort	            |        |         |         |
+Randomized quickSort    |        |         |         |
+
+(iv)
+
+
+

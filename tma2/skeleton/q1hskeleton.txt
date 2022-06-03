@@ -1,0 +1,7 @@
+(i)	The variable c at line 7 has scope from ___ to ____ (except ... ) and it is a ______ variable.
+
+(ii) The function a() at line 6 has scope from ___ to ____ (except ... ) and it is a ______ identifier.
+
+(iii) The variable a at line 6 has scope from ___ to ____ (except ... ) and it is a ______ variable.
+
+(iv) The variable a at line 8 has scope from ___ to ____ (except ... ) and it is a ______ variable.
